@@ -31,6 +31,6 @@ See: github.com/bbullman/dotfiles for more installation instructions on various 
 
 The notes directory is a structured markdown wiki using Obsidian.
 
-## Projects
+## Labs 
 
-The projects directory contains various projects for lessons in the course.
+The labs directory contains various projects for lessons in the course.
