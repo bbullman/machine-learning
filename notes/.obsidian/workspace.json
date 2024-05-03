@@ -4,26 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "a52ae3667cbacd6b",
-        "type": "tabs",
-        "dimension": 15.388086642599278,
-        "children": [
-          {
-            "id": "c871f27daf7a7ba7",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Week 2 - Statistical Learning/Reading Notes.md"
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "5111f1ac3c7c0729",
         "type": "tabs",
-        "dimension": 84.61191335740072,
         "children": [
           {
             "id": "9f62e2a5c347a6b0",
@@ -31,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week 1 - Introduction To Statistical Learning/Reading Notes.md",
+                "file": "Week 1 - Introduction To Statistical Learning/Reading Notes - Introduction.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week 1 - Introduction To Statistical Learning/Reading Notes.md",
+                "file": "Week 1 - Introduction To Statistical Learning/Reading Notes - Introduction.md",
                 "mode": "source",
                 "source": false
               }
@@ -55,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week 2 - Statistical Learning/Reading Notes.md",
+                "file": "Week 3 - Classification/Reading Notes - Classification.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Week 2 - Statistical Learning/Reading Notes.md",
+                "file": "Week 3 - Classification/Reading Notes - Classification.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week 2 - Statistical Learning/Reading Notes.md",
+                "file": "Week 3 - Classification/Reading Notes - Classification.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,9 +156,12 @@
   },
   "active": "5a64719efefa26c3",
   "lastOpenFiles": [
+    "Week 1 - Introduction To Statistical Learning/Reading Notes - Introduction.md",
+    "Week 2 - Statistical Learning/Reading Notes - Linear Regression.md",
+    "Week 3 - Classification/Reading Notes - Classification.md",
+    "Week 3 - Classification",
     "Pasted image 20240428150944.png",
     "img/lesson2_truefunction.png",
-    "Week 2 - Statistical Learning/Reading Notes.md",
     "Pasted image 20240428150757.png",
     "img/lesson2_outlier_example.png",
     "img/lesson2_rss_overstated.png",
@@ -188,7 +173,6 @@
     "Pasted image 20240422183758.png",
     "Week 1 - Introduction To Statistical Learning/Lesson 1.md",
     "Week 2 - Statistical Learning",
-    "Week 1 - Introduction To Statistical Learning/Reading Notes.md",
     "img",
     "General Notes.md",
     "Welcome.md",
