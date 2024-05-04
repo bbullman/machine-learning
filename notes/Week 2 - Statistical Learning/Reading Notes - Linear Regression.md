@@ -34,7 +34,7 @@ RSS = e1^2 + e2^2 + e3^2...+ en^2 // residual sum of squares
 
 The true relationship model:
 
-![[Pasted image 20240428150944.png]]
+![[lesson2_unknownfunction.png]]
 
 
 * Sample mean is a good way to approximate.
