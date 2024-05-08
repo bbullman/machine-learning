@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Week 3 - Classification/Lesson 3.md"
+                "file": "Week 4 -  Model Building Pt. 1/Lesson 4.md"
               }
             }
           }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week 3 - Classification/Lesson 3.md",
+                "file": "Week 4 -  Model Building Pt. 1/Lesson 4.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Week 3 - Classification/Lesson 3.md",
+                "file": "Week 4 -  Model Building Pt. 1/Lesson 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week 3 - Classification/Lesson 3.md",
+                "file": "Week 4 -  Model Building Pt. 1/Lesson 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,14 +147,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "17e2f1419098bb78",
+  "active": "5a64719efefa26c3",
   "lastOpenFiles": [
+    "Week 4 -  Model Building Pt. 1/Reading Notes - Model Building Pt. 1.md",
+    "img/lesson4_missing_data_analysis.png",
+    "Week 4 -  Model Building Pt. 1/Lesson 4.md",
+    "Week 3 - Classification/Lesson 3.md",
+    "Week 4 -  Model Building Pt. 1",
     "img/lesson3_qda_vs_logregr_knn.png",
     "img/lesson3_logistic_regr_vs_lda.png",
     "Week 3 - Classification/Reading Notes - Classification.md",
     "img/lesson2_unknownfunction.png",
     "img/lesson3_lda_vs_qda.png",
-    "Week 3 - Classification/Lesson 3.md",
     "Week 2 - Statistical Learning/Reading Notes.md",
     "Week 3 - Classification",
     "Week 2 - Statistical Learning/Reading Notes - Linear Regression.md",
@@ -164,8 +168,6 @@
     "img/lesson2_outlier_example.png",
     "img/lesson2_rss_overstated.png",
     "img/lesson2_simple_linear_regression.png",
-    "img/lesson1_aimlds_overlap.png",
-    "img/lesson1_aimlds_overlap_source.png",
     "Week 2 - Statistical Learning/Lesson 2.md",
     "Week 1 - Introduction To Statistical Learning/Lesson 1.md",
     "Week 2 - Statistical Learning",

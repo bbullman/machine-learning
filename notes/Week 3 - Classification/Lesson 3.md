@@ -59,3 +59,18 @@ For p>1 it's the case of multivariate Gaussian dstribution.
 ## QDA vs. Logistic Regression and KNN
 
 ![[lesson3_qda_vs_logregr_knn.png]]
+
+----
+For measuring logistic regression:
+
+1. Accuracy: the proportion of correctly classified observations out of the total number of observations.  
+    
+2. Precision: the proportion of true positive predictions out of the total number of positive predictions.  
+    
+3. Recall: the proportion of true positive predictions out of the total number of actual positives.  
+    
+4. F1 score: the harmonic mean of precision and recall.  
+    
+5. Area Under the Receiver Operating Characteristic Curve (AUC-ROC): a measure of the model's ability to distinguish between positive and negative classes.  
+    
+6. Confusion matrix: a table that summarizes the number of true positives, true negatives, false positives, and false negatives.
