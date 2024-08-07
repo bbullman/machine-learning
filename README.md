@@ -1,6 +1,6 @@
-# Introduction to Machine Learning Course 
+# Machine Learning Courses
 
-A repository containing Introduction to Machine Learning Course Notes and Projects.
+A repository containing Introduction to Machine Learning Course, Advanced Machine Learning Course, and Deep Learning Notes and Projects.
 
 ## Setup
 
@@ -27,10 +27,10 @@ You can also use Anaconda for Windows + VSCode, Collabera, etc.
 
 See: github.com/bbullman/dotfiles for more installation instructions on various OS and environments.
 
-## Notes
+## Directories
 
-The notes directory is a structured markdown wiki using Obsidian.
-
-## Labs 
-
-The labs directory contains various projects for lessons in the course.
+* The Class Notes directory is a structured markdown wiki using Obsidian.
+* Books contains free resources including the ISLP
+* Machine Learning contains labs, exercises, case studies, and datasets for the base class
+* Machine Learning (Advanced) contains labs, exercises, case studies, for the advanced class
+* Deep Learning contains labs, exercises, case studies, for the deep learning class
