@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deep Learning/Week 8 - GANs/Generative Adversarial Networks.md",
+                "file": "General Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Generative Adversarial Networks"
+              "title": "General Notes"
             }
           }
         ]
@@ -133,10 +133,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deep Learning/Week 8 - GANs/Generative Adversarial Networks.md"
+                "file": "General Notes.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Generative Adversarial Networks"
+              "title": "Outline of General Notes"
             }
           }
         ]
@@ -155,8 +155,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "17e2f1419098bb78",
+  "active": "66a247f727df2bad",
   "lastOpenFiles": [
+    "Deep Learning/Week 8 - GANs/Generative Adversarial Networks.md",
     "Deep Learning/_img/lesson04_alexnet.png",
     "Deep Learning/Week 7 - VAE (Variational Autoencoders)/Variational Autoencoders.md",
     "Deep Learning/Week 7 - VAE (Variational Autoencoders)",
@@ -164,7 +165,6 @@
     "Deep Learning/Week 6 - Advanced RNNs",
     "Deep Learning/_img/lesson08_training_gans.png",
     "Deep Learning/_img/lesson08_gan_discriminator_training.png",
-    "Deep Learning/Week 8 - GANs/Generative Adversarial Networks.md",
     "Deep Learning/_img/lesson08_gan_generator_training.png",
     "Deep Learning/Extra Notes.md",
     "Deep Learning/_img/lesson08_gans.png",
