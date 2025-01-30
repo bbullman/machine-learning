@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General Notes.md",
+                "file": "Deep Learning/Week 10 - ML & Deep Learning/ML & Deep Learning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "General Notes"
+              "title": "ML & Deep Learning"
             }
           }
         ]
@@ -133,10 +133,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General Notes.md"
+                "file": "Setup/Stable Diffusion.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of General Notes"
+              "title": "Outline of Stable Diffusion"
             }
           }
         ]
@@ -155,30 +155,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "66a247f727df2bad",
+  "active": "17e2f1419098bb78",
   "lastOpenFiles": [
+    "Deep Learning/Week 10 - ML & Deep Learning/ML & Deep Learning.md",
+    "Untitled.md",
+    "Deep Learning/_img/lesson10_rayserve.png",
+    "Deep Learning/_img/lesson10_tritonserver.png",
+    "Pasted image 20241203183834.png",
+    "General Notes.md",
+    "Deep Learning/_img/lesson10_tensorflowserving2.png",
+    "Deep Learning/_img/lesson10_tensorflowserving1.png",
+    "Deep Learning/_img/lesson10_flaskserver_api.png",
+    "Deep Learning/_img/lesson10_iterate_model.png",
+    "Deep Learning/Week 9 - Deep Reinforcement Learning/Reinforcement Learning.md",
+    "Deep Learning/Week 10 - ML & Deep Learning",
+    "Deep Learning/_img/lesson09_MDP_Algorithm.png",
+    "Deep Learning/_img/lesson09_gridworld.png",
+    "Deep Learning/_img/lesson09_finite_state_transducer.png",
+    "Setup/Stable Diffusion.md",
+    "Deep Learning/Week 9 - Deep Reinforcement Learning",
     "Deep Learning/Week 8 - GANs/Generative Adversarial Networks.md",
-    "Deep Learning/_img/lesson04_alexnet.png",
     "Deep Learning/Week 7 - VAE (Variational Autoencoders)/Variational Autoencoders.md",
     "Deep Learning/Week 7 - VAE (Variational Autoencoders)",
     "Deep Learning/Week 6 - Advanced RNNs/Advanced RNNs.md",
     "Deep Learning/Week 6 - Advanced RNNs",
-    "Deep Learning/_img/lesson08_training_gans.png",
-    "Deep Learning/_img/lesson08_gan_discriminator_training.png",
-    "Deep Learning/_img/lesson08_gan_generator_training.png",
     "Deep Learning/Extra Notes.md",
-    "Deep Learning/_img/lesson08_gans.png",
-    "Deep Learning/_img/lesson08_taxonomy_of_gans.png",
     "Deep Learning/Week 5 - Recurrent Neural Networks/Recurrent Neural Networks (RNNs).md",
     "Deep Learning/Week 8 - GANs",
-    "Deep Learning/_img/lesson05_bptt_nn.png",
-    "Deep Learning/_img/lesson05_rnns_unfolding.png",
-    "General Notes.md",
     "Deep Learning/Week 5 - Recurrent Neural Networks",
-    "Setup/Stable Diffusion.md",
     "Deep Learning/Week 4 - CNN Applications/Applications of CNNs.md",
-    "Deep Learning/_img/lesson04_transferlearning.png",
-    "Deep Learning/_img/lesson04_SGD.png",
     "Deep Learning/Week 3 - Convolutional Neural Networks/Convolutional Neural Networks (CNNs).md",
     "Deep Learning/Week 4 - CNN Applications",
     "Deep Learning/Week 2 - Neural Network Fundamentals/Neural Network Fundamentals.md",
@@ -186,8 +191,6 @@
     "Setup",
     "Deep Learning/Week 1 - Intro & History of Deep Learning/Introduction & History of Deep Learning.md",
     "Deep Learning/Week 2 - Neural Network Fundamentals",
-    "Deep Learning/_img/lesson01_perceptron_and_or.jpg.crdownload",
-    "Deep Learning/_img/lesson01_perceptron_xor.jpg.crdownload",
     "Machine Learning (Advanced)/Week 10 - ML Operations/ML Operations.md",
     "Machine Learning (Advanced)/Week 6 - Clustering/Clustering.md",
     "Machine Learning (Advanced)/Week 4 - Support Vector Machines/Support Vector Machines.md",
@@ -198,9 +201,6 @@
     "Machine Learning/Week 10 - Frequent Itemsets/Frequent Itemset Mining.md",
     "Machine Learning/Week 9 - Time Series/Time Series Decomposition.md",
     "Machine Learning/Week 7 - Improving Prediction Accuracy and Models/Lesson 7.md",
-    "Machine Learning/Week 6 - Resampling/Lesson 6.md",
-    "Machine Learning/Week 4 -  Model Building Pt. 1/Lesson 4.md",
-    "Machine Learning/Week 4 -  Model Building Pt. 1/Reading Notes - Model Building Pt. 1.md",
-    "Machine Learning/Week 3 - Classification/Lesson 3.md"
+    "Machine Learning/Week 6 - Resampling/Lesson 6.md"
   ]
 }
